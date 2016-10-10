@@ -1,5 +1,5 @@
-# react-native-component
+# react-native-checkbox
 
-Some Component for React Native.
+A checkbox for React Native.
 
-##CheckBox
+
